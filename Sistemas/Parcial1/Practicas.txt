@@ -1,0 +1,3 @@
+6 suma de cuenta con dos botones menos y mas
+
+7  movimiento de leds con dos botones izquierda y derecha
