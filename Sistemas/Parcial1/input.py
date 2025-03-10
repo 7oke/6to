@@ -4,7 +4,7 @@ import time
 gpio.setwarnings(False)
 gpio.setmode(gpio.BCM)
 
-BUTTON_PIN = 18
+BUTTON_PIN = 11
 
 gpio.setup(BUTTON_PIN,gpio.IN, pull_up_down=gpio.PUD_DOWN)
 # Configurar la resistencia interna como pull up

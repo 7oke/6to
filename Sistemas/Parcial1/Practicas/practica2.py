@@ -2,7 +2,7 @@ import RPi.GPIO as GPIO
 import time
 import argparse
 
-led_pins = [21, 20, 16, 12] 
+led_pins = [26, 19, 13, 6] 
 
 # Configuración de GPIO
 GPIO.setmode(GPIO.BCM)

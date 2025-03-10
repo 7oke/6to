@@ -1,14 +1,6 @@
 import threading
 import time
 
-
-
-
-
-
-
-
-
 suma1, suma2, suma3 , suma4 , suma5 = 0,0,0,0,0
 suma6 , suma7, suma8 , suma9 , suma10 = 0,0,0,0,0
 res = 0
