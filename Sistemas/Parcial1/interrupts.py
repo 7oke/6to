@@ -1,7 +1,7 @@
 import RPi.GPIO as gpio
 import time
 
-BUTTON_PIN = 11
+BUTTON_PIN = 17
 
 gpio.setmode(gpio.BCM)
 gpio.setup(BUTTON_PIN,gpio.IN,pull_up_down=gpio.PUD_DOWN)
